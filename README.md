@@ -1,15 +1,15 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]
 <h1 align="center">Hi 👋, I'm Mohit Nandan</h1>
-<h3 align="center">A passionate Backend developer from India.</h3>
+<h3 align="center">A passionate full Stack developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit03nandan&label=Profile%20views&color=0e75b6&style=flat" alt="mohit03nandan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [central-file-management](https://github.com/mohit03nandan/central-file-management-frontend)
+<!-- - 🔭 I’m currently working on [central-file-management](https://github.com/mohit03nandan/central-file-management-frontend) -->
 
-- 🌱 I’m currently learning **REACTJS**
+- 🌱 I’m currently learning **REACTJS/Redux**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -17,7 +17,7 @@
 
 - 📝 make a connection with me [https://www.linkedin.com/in/mohit-nandan-9982831a1/](https://www.linkedin.com/in/mohit-nandan-9982831a1/)
 
-- 💬 Ask me about **MERN, BACKEND**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **mohitnandan81825@gmail.com**
 
